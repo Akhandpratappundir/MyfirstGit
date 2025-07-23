@@ -1,3 +1,3 @@
 # MyfirstGit
 <br>
-Author- Akhand Pratap
+Author- Akhand Pratap(Galgotia University)
